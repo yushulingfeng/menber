@@ -1,12 +1,12 @@
 老姚 https://github.com/Wscats  Wscats
 
-刘文彬	github.com/yushulingfeng	yushulingfeng
+刘文彬	https://github.com/yushulingfeng	yushulingfeng
 
-李平	github.com/hefang2019	hefang2019
+李平	https://github.com/hefang2019	hefang2019
 
-陈金明	github.com/githubcjm	githubcjm
+陈金明	https://github.com/githubcjm	githubcjm
 
-罗振洲	github.com/yunfeiyang-l	yunfeiyang-l
+罗振洲	https://github.com/yunfeiyang-l	yunfeiyang-l
 
 刘勋	https://github.com/liuxungod  	liuxungod
 
